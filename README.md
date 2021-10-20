@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Platypus712 rl name Nikola
-- 👀 I’m interested in programming, I'm new so I don't have favourite language but currently I'm best at mysql.
-- 🌱 I’m currently learning mysql, html and css
-- 💞️ I’m looking to collaborate on projects that can help me to learn html and css, and projects that can upgrade my knowledge in mysql
+- 👀 I’m interested in programming, I'm new so I don't have favourite language but currently I'm interested mainly in frontend.
+- 🌱 I’m currently learning html,css and a bit of laravel.
+- 💞️ I’m looking to collaborate on projects that can help me to learn html and css, and projects that can upgrade my knowledge in frontend overall
 - 📫 How to reach me: email: nikolapustisek@gmail.com
 
 <!---
